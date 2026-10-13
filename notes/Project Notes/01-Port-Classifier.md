@@ -7,3 +7,11 @@ From this projcet i was able to learn how to create a custom library from scratc
 This project exposes the manipulation of code and also function defination and also most importantly the basic rules to create a functioning library.
 
 For example it is noted that there is no main function defined in the library and also the function should start with capital letters instead of small so that it can be calssified as either private or public
+
+The project location can be viewed in:
+
+[Port Classifier](https://github.com/systems-jackal/Black-Hat-Go/tree/main/Projects/portclassifier)
+
+For the script to work it should be accompanied with the portkit library :
+
+[Port Kit](https://github.com/systems-jackal/Black-Hat-Go/tree/main/Projects/portkit)
